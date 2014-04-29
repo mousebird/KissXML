@@ -29,3 +29,7 @@
 #endif
 
 @end
+
+void DDXMLDummyFunc()
+{
+}

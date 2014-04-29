@@ -22,3 +22,9 @@
 - (NSDictionary *)attributesAsDictionary;
 
 @end
+
+// Used to pull in category selectors
+#ifdef __cplusplus
+extern "C"
+#endif
+void DDXMLElementDummyFunc();

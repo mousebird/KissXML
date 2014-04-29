@@ -12,3 +12,9 @@
 - (NSString *)stringByTrimming;
 
 @end
+
+// Used to pull in category selectors
+#ifdef __cplusplus
+extern "C"
+#endif
+void DDXMLDummyFunc();

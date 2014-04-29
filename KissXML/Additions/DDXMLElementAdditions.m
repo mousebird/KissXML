@@ -129,3 +129,7 @@
 }
 
 @end
+
+void DDXMLElementDummyFunc()
+{
+}
